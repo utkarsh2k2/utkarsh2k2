@@ -61,7 +61,6 @@ Stack: Python · LLM APIs · NLP heuristics
 > Configurable BMS for small enterprises in underserved Indian markets. Low-bandwidth, mobile-first, built to scale across verticals.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://utkarsh2k2.github.io/claude-repos/owner-app.html)
-
 [![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://utkarsh2k2.github.io/claude-repos)
 
 ```
