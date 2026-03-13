@@ -1,4 +1,4 @@
-<div align="center">
+t<div align="center">
 
 ```
   ██╗   ██╗████████╗██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
@@ -73,8 +73,8 @@ Stack: JS · Firebase · PWA · Modular config layer
 ### Chikis & Home Bakery
 > Full-stack platform for a home bakery service — frontend storefront and backend order management.
 
-[![Frontend](https://img.shields.io/badge/Frontend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/chikis)
-[![Backend](https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/home-bakery)
+[![Frontend](https://img.shields.io/badge/Frontend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/home-bakery)
+[![Backend](https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/chikis)
 
 ---
 
