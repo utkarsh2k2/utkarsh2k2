@@ -1,4 +1,4 @@
-t<div align="center">
+<div align="center">
 
 ```
   ██╗   ██╗████████╗██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
@@ -27,26 +27,24 @@ I build production software that ships to real users in constrained environments
 
 ## Projects
 
-### Usha Medical & Industrial Gases — Business Management System
-> Multi-role PWA for a gas distribution business. Owner, Supervisor, and Worker dashboards with real-time Firebase sync and full offline support.
+### Modular Business Management System
+> Multi-role PWA suite built for real businesses in low-connectivity environments. Deployed for Usha Medical & Industrial Gases — extensible to any SME vertical.
 
-[![Live Demo]https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://utkarsh2k2.github.io/claude-repos/owner-app.html)
-[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/claude-repos)
+[Owner App](https://utkarsh2k2.github.io/claude-repos/owner-app.html) · [Supervisor App](https://utkarsh2k2.github.io/claude-repos/supervisor-app.html) · [Worker App](https://utkarsh2k2.github.io/claude-repos/worker-app.html) · [Source](https://github.com/utkarsh2k2/claude-repos)
 
 ```
 Stack: Vanilla JS · Firebase Realtime DB · PWA · Service Workers
 ```
-- Role-based access: Owner financials, Supervisor ops, Worker task tracking
+- Three role-based dashboards: Owner financials, Supervisor ops, Worker task tracking
 - Cylinder inventory, delivery logs, customer ledger — all offline-capable
-- Designed for a real business with zero tolerance for connectivity failures
+- Configurable across verticals; targets 63M+ SMEs in tier 2/3 India with no viable digital tooling
 
 ---
 
 ### AI Content Detection Tool
 > Detects AI-generated text with interpretable signals. Built for editorial and compliance teams.
 
-[![Live]https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://utkarsh2k2.github.io/AIBlock/)
-[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/AIBlock)
+[Live Demo](https://utkarsh2k2.github.io/AIBlock/) · [Source](https://github.com/utkarsh2k2/AIBlock)
 
 ```
 Stack: Python · LLM APIs · NLP heuristics
@@ -57,26 +55,10 @@ Stack: Python · LLM APIs · NLP heuristics
 
 ---
 
-### Modular Business Platform — Tier 2/3 India
-> Configurable BMS for small enterprises in underserved Indian markets. Low-bandwidth, mobile-first, built to scale across verticals.
-
-[![Live]https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://utkarsh2k2.github.io/claude-repos/worker-app.html)
-[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/claude-repos)
-
-```
-Stack: JS · Firebase · PWA · Modular config layer
-```
-- Single codebase, multiple business types (retail, distribution, services)
-- Designed for 2G/3G networks and entry-level Android devices
-- Targets the 63M+ SMEs in India with zero viable digital tooling today
-
----
-
 ### Chikis & Home Bakery
-> Full-stack platform for a home bakery service — frontend storefront and backend order management.
+> Full-stack home bakery platform — React storefront with a Django backend.
 
-[![Frontend](https://img.shields.io/badge/Frontend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/home-bakery)
-[![Backend](https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/chikis)
+[Frontend (React)](https://github.com/utkarsh2k2/home-bakery) · [Backend (Django)](https://github.com/utkarsh2k2/chikis)
 
 ---
 
