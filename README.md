@@ -45,7 +45,7 @@ Stack: Vanilla JS · Firebase Realtime DB · PWA · Service Workers
 ### AI Content Detection Tool
 > Detects AI-generated text with interpretable signals. Built for editorial and compliance teams.
 
-[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2)
+[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/AIBlock)
 
 ```
 Stack: Python · LLM APIs · NLP heuristics
