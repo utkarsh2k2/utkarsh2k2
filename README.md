@@ -30,8 +30,8 @@ I build production software that ships to real users in constrained environments
 ### Usha Medical & Industrial Gases — Business Management System
 > Multi-role PWA for a gas distribution business. Owner, Supervisor, and Worker dashboards with real-time Firebase sync and full offline support.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://utkarsh2k2.github.io/utkarsh2k2/)
-[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/utkarsh2k2/utkarsh2k2)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://utkarsh2k2.github.io/claude-repos/owner-app.html)
+[![Repo](https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://utkarsh2k2.github.io/claude-repos/owner-app.html)
 
 ```
 Stack: Vanilla JS · Firebase Realtime DB · PWA · Service Workers
